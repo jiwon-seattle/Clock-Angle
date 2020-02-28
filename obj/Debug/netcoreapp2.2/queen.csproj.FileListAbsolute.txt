@@ -1,0 +1,11 @@
+C:\Users\Jiwon Han\desktop\coding\c#\queen\obj\Debug\netcoreapp2.2\queen.csprojAssemblyReference.cache
+C:\Users\Jiwon Han\desktop\coding\c#\queen\obj\Debug\netcoreapp2.2\queen.csproj.CoreCompileInputs.cache
+C:\Users\Jiwon Han\desktop\coding\c#\queen\obj\Debug\netcoreapp2.2\queen.AssemblyInfoInputs.cache
+C:\Users\Jiwon Han\desktop\coding\c#\queen\obj\Debug\netcoreapp2.2\queen.AssemblyInfo.cs
+C:\Users\Jiwon Han\desktop\coding\c#\queen\bin\Debug\netcoreapp2.2\queen.deps.json
+C:\Users\Jiwon Han\desktop\coding\c#\queen\bin\Debug\netcoreapp2.2\queen.runtimeconfig.json
+C:\Users\Jiwon Han\desktop\coding\c#\queen\bin\Debug\netcoreapp2.2\queen.runtimeconfig.dev.json
+C:\Users\Jiwon Han\desktop\coding\c#\queen\bin\Debug\netcoreapp2.2\queen.dll
+C:\Users\Jiwon Han\desktop\coding\c#\queen\bin\Debug\netcoreapp2.2\queen.pdb
+C:\Users\Jiwon Han\desktop\coding\c#\queen\obj\Debug\netcoreapp2.2\queen.dll
+C:\Users\Jiwon Han\desktop\coding\c#\queen\obj\Debug\netcoreapp2.2\queen.pdb
