@@ -33,8 +33,6 @@ class Clock {
       int userInputOnetoNine = int.Parse(userInput.Substring(1,1));
       int userInputTentoEleven = int.Parse(userInput.Substring(0, 2));
 
-
-
       if (userInputTentoEleven == 12 && userInputMinute >= 3)
       {
         Console.WriteLine(time[1]);
