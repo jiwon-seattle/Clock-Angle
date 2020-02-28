@@ -1,4 +1,4 @@
-# Riddles-of-the-Sphinx
+# Clock Angle
 
 #### An application that returns the distance in degrees between the minute and hour hands on an analog clocks. 2/27/20
 
